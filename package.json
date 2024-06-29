@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-third",
+  "version": "1.0.0",
+  "description": "NodeJS learning. Third project.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "author": "Roman Pizdorvan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
